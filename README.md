@@ -4,7 +4,7 @@ The goal is to create a timer app for Grisha that will help him grasp how much t
 left with relateable units. For example, 20 minutes is like two youtube videos. 1 hour 
 is like a shitty lecture.
 
-##API:
+## API:
 ----------------------------
 - `startTimer("ms")` Begins times for set hours, minutes, and seconds
 - `cancelTimer()` Cancels timer
