@@ -6,9 +6,9 @@ is like a shitty lecture.
 
 ## API:
 ----------------------------
-- `startTimer("ms")` Begins times for set hours, minutes, and seconds
+- `startTimer(ms)` Begins times for set hours, minutes, and seconds
 - `cancelTimer()` Cancels timer
 - `getTimerState()` Returns "active", "inactive", or "finished"
 - `about()` Returns name and version
-- `getTimeRemainig()` Returns time remaining in milliseconds
+- `getTimeRemaining()` Returns time remaining in milliseconds
 
